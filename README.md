@@ -22,7 +22,7 @@
 
 ## The problem
 
-Kids grow. Prostheses don't.
+A prosthesis does not grow with the child wearing it.
 
 A growing child typically needs a new prosthesis every year.<sup>[1]</sup> Every replacement means a new fitting, a new build, and a new bill. The device is outgrown long before it wears out.
 
@@ -68,7 +68,7 @@ flowchart LR
     S1 & S2 & S3 --> A --> H1 & H2 & H3
 ```
 
-Any socket. Any hand. One connection point. Upgrading from M to L is a swap, not a rebuild.
+Every socket fits every hand through one connection point. Going from M to L means printing a new hand and socket. The adapter stays.
 
 ## Specifications
 
